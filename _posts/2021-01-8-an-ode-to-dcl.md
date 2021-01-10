@@ -2,8 +2,9 @@
 layout: post
 title:  "An Ode to Dominic Calvert-Lewin"
 author: Lev
-categories: [ Lifestyle ]
-tags: [ France ]
+categories: [ Football ]
+tags: [ Test ]
+comments: true
 image: assets/images/dcl.jpg
 ---
 Dominic Nathaniel Calvert-Lewin (born 16 March 1997) is an English professional footballer who plays as a striker for Premier League club Everton and the England national team.
