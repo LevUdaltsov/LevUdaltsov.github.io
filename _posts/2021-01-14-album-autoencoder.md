@@ -100,7 +100,7 @@ So, what can we learn from encoding the album reviews? Here is a couple examples
 
 In the above plot we see that the model was able to learn some sort of information about the albums. For each artist,
 the albums seem to cluster within a certain space, with a few outliers for the Kanye and Kendrick albums.
-Coldplay's albums are closest together. This is a really interesting to see.
+Coldplay's albums are closest together. This is really interesting to see.
 
 Here is another example, this time without labels to get a clearer image.
 ![](/assets/images/albums/album_plot_no_label.png)
