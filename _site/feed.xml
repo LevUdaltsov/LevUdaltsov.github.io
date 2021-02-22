@@ -5,8 +5,8 @@
     <description>Welcome to my blog!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Feb 2021 16:10:43 +0000</pubDate>
-    <lastBuildDate>Mon, 22 Feb 2021 16:10:43 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Feb 2021 16:31:43 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2021 16:31:43 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -105,12 +105,13 @@ There isn’t much of a recipe here but I this was really tasty and had all the 
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;The taste was really similar to what you’d get in a deli, although the texture wasn’t quite there. A modern, plant-based twist on a classic.&lt;/p&gt;
+&lt;p&gt;The taste was really similar to what you’d get in a deli HCR, although the texture wasn’t quite there.
+Either way it was great to have a tasty plant-based twist on a classic.&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/recipe-list/</link>
-        <guid isPermaLink="true">http://localhost:4000/recipe-list/</guid>
+        <link>http://localhost:4000/recipe-tracker/</link>
+        <guid isPermaLink="true">http://localhost:4000/recipe-tracker/</guid>
         
         <category>Food</category>
         
