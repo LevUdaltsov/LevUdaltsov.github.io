@@ -9,8 +9,10 @@ image: assets/images/food/remi.jpg
 ---
 
 As someone who enjoys cooking and does it every day, I'm always on the lookout for new recipes or foods to try.
-Documenting this passion for food is something I've wanted to do for a long time but never knew what format would be best for it, 
+Documenting this passion for food is something I've wanted to do for a long time but never knew what format would be best for it,.
 I have no expertise in food blogging or food photography and have no interest in sharing my amateur photos on Social Media.
+
+
 However, I think a single, continuously updated blog post that is dedicated to documenting some interesting food
 experiments and experiences is something I'd like to maintain.
 It will give me something regular to update this site with and also be a great reference for my future self to keep track of
