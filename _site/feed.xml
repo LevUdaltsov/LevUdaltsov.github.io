@@ -5,9 +5,121 @@
     <description>Welcome to my blog!</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Jan 2021 20:55:07 +0000</pubDate>
-    <lastBuildDate>Thu, 14 Jan 2021 20:55:07 +0000</lastBuildDate>
+    <pubDate>Mon, 22 Feb 2021 16:10:43 +0000</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2021 16:10:43 +0000</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
+    
+      <item>
+        <title>Recipe Tracker 2021</title>
+        <description>&lt;p&gt;As someone who enjoys cooking and does it every day, I’m always on the lookout for new recipes or foods to try.
+Documenting this passion for food is something I’ve wanted to do for a long time but never knew what format would be best for it, 
+I have no expertise in food blogging or food photography and have no interest in sharing my amateur photos on Social Media.
+However, I think a single, continuously updated blog post that is dedicated to documenting some interesting food
+experiments and experiences is something I’d like to maintain.
+It will give me something regular to update this site with and also be a great reference for my future self to keep track of
+recipes I’d otherwise forget about or lose track of.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Here is a catalogue of interesting food bits I’ve tried in 2021:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#focaccia-from-scratch&quot;&gt;Focaccia From Scratch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#lobster-with-prawn-toast&quot;&gt;Lobster with Prawn Toast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#vegan-hot-chicken-roll&quot;&gt;Vegan Hot Chicken Roll&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;focaccia-from-scratch&quot;&gt;Focaccia From Scratch&lt;/h3&gt;
+
+&lt;p&gt;I made this based on a recommendation from a friend and having seen the Claire Saffitz video on how to make one, and it turned out pretty well.
+I used the BBC Good Food base recipe and experimented with the toppings based on Claire’s video, adding some Red Harissa Pesto on one side of the loaf.
+It was really easy to make and turned out well, highly recommend giving it a go!&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Garlic, Rosemary and Chilli oil topping&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Close up of structure&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/images/food/focaccia1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;&lt;img src=&quot;/assets/images/food/focaccia2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bbcgoodfood.com/recipes/focaccia&quot;&gt;BBC Good Food Focaccia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=NGnMrM9qDtE&quot;&gt;Claire Saffitz Recipe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;lobster-with-prawn-toast&quot;&gt;Lobster with Prawn Toast&lt;/h3&gt;
+
+&lt;p&gt;I made these two recipes as a Valentine’s day dine-in treat as all restaurants were closed.&lt;/p&gt;
+
+&lt;p&gt;It was my second time ever cooking lobster but it was a lot easier than I thought it would be! I had to watch a few videos on Youtube
+to ensure I didn’t mess up the lobster tails but it worked out in the end. I used 3 times as much garlic and butter than in the recipe,
+which is quite conservative with its measurements. I served it with goose fat potatoes and some veg, and the excess melted garlic butter
+made for a delicious sauce.&lt;/p&gt;
+
+&lt;p&gt;Baked Lobster, roast potatoes, veg
+&lt;img src=&quot;/assets/images/food/lobster.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The prawn toast I remembered from an old Tesco pre-made Chinese finger food range, but came across a recipe for it and thought I’d try it.
+It was super simple to cook and really decadent, and made for a great little starter. Definitely going to make it for a special occasion in the future.&lt;/p&gt;
+
+&lt;p&gt;Prawn Toast Cross-section
+&lt;img src=&quot;/assets/images/food/prawntoast.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tasty.co/recipe/baked-lobster-tails&quot;&gt;Lobster Written Recipe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=BeLTD9lA34s&quot;&gt;Lobster Prep Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=i8fygRZlYHc&quot;&gt;Prawn Toast Recipe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;vegan-hot-chicken-roll&quot;&gt;Vegan Hot Chicken Roll&lt;/h3&gt;
+
+&lt;p&gt;As a proud Irish citizen, there are few things that bring me more comfort than a fresh,
+crunchy deli Hot Chicken Roll (or Chicken Fillet Roll depending where you’re from).&lt;/p&gt;
+
+&lt;p&gt;At the same time, I have recently been trying to eat fewer animal products while being able to enjoy a bit of indulgence now and then.
+So when I came across &lt;strong&gt;Plant Kitchen no-chicken southern fried tenders&lt;/strong&gt; in Marks and Spencers I knew I had to stick it in a bread roll.
+There isn’t much of a recipe here but I this was really tasty and had all the flavour of a standard Hot Chicken Roll so I thought I’d share!&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/images/food/hcr1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/images/food/HCR2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The taste was really similar to what you’d get in a deli, although the texture wasn’t quite there. A modern, plant-based twist on a classic.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/recipe-list/</link>
+        <guid isPermaLink="true">http://localhost:4000/recipe-list/</guid>
+        
+        <category>Food</category>
+        
+        <category>Photography</category>
+        
+        
+        <category>Food</category>
+        
+      </item>
     
       <item>
         <title>An Album paints a Thousand Words: NLP And Autoencoders for Music Recommendation</title>
