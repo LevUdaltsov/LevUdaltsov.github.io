@@ -24,6 +24,8 @@ Here is a catalogue of interesting food bits I've tried in 2021:
 2. [Lobster with Prawn Toast](#lobster-with-prawn-toast)
 3. [Vegan Hot Chicken Roll](#vegan-hot-chicken-roll)
 
+***
+
 
 ### Focaccia From Scratch
 
