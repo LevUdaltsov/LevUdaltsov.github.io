@@ -83,5 +83,6 @@ There isn't much of a recipe here but I this was really tasty and had all the fl
 :-------------------------:|:-------------------------:
 ![](/assets/images/food/hcr1.jpg) | ![](/assets/images/food/HCR2.jpg)
 
-The taste was really similar to what you'd get in a deli, although the texture wasn't quite there. A modern, plant-based twist on a classic.
+The taste was really similar to what you'd get in a deli HCR, although the texture wasn't quite there.
+Either way it was great to have a tasty plant-based twist on a classic.
 
